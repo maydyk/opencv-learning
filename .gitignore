@@ -1,3 +1,9 @@
+# Sources from the book
+book/
+
+# Build directory
+build/
+
 # Prerequisites
 *.d
 
