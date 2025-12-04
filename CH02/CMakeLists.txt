@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.25)
+
+add_subdirectory(bitwise_and)
+add_subdirectory(estimatePi)
+add_subdirectory(FileStorage)
+add_subdirectory(ColourImageEqualizeHist)
+add_subdirectory(ColourImageComparison)
