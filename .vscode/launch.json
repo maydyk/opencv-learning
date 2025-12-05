@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             "program": "${command:cmake.launchTargetPath}",
-            "args": ["fruits.jpg"],
+            "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceRoot}/workshop",
             "environment": [],
